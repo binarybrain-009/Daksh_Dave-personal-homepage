@@ -2,40 +2,86 @@
 	"Title": "Daksh Dave | Personal Webpage",
 	"Name": "Daksh Dave",
 	"Description": [
-		"Undergraduate at BITS Pilani. An Entrepreneur by the heart and a developer by the mind. My main strengths lie in the vast pieces of knowledge that I have garnered by working across various sectors in Core Electrical, IT, Project Management, Management Consulting, Finance, and Hardware and using those to ideate with diverse people to deluge beyond the prevalent and delineate approaches besetting our interactions to leave an abstruse mark upon the society.",
-		"I grab every chance I get to travel, learn and create and workout..!"
-	],
-	"MainImage": "https://i.imgur.com/lQoW7iD.png",
-	"BackgroundURL": "",
+		"An Entrepreneur by the heart and a developer by the mind. I have over 2.5 years of (part-time+full-time) experience in system design and development in some successful product startups and MNCs. ",
+		"I have built enterprise software as well as scalable consumer products end to end. I have identified various critical performance bottlenecks in the system, fixed them in some cases, and re-wrote the feature from the ground up in others. Have been part of various mission-critical events. Have handled 'do or die' moments of crisis and brought the system back to life. I Have implemented complex data-driven Algorithms and data pipelines.",
 
-	"AboutImage": "https://imgur.com/mPWYjji.jpg",
+		"I grab every chance I get to travel, learn, create and play..!"
+
+		"Tools and Technologies:",
+		
+"Go, Ruby, Java, Rails, Grails, Django, Python, C++, Springboot",
+"HTML, CSS, Javascript, AngularJs, ReactJS",
+"R, PyTorch, Tensorflow, Pandas, Numpy",
+"PostgreSQL, MySql, Redis, MongoDB",
+"RabbitMQ, Kafka, Spring",
+
+		
+	],
+	"MainImage": "https://imgur.com/a/FPZ1AMr.png",
+	"BackgroundURL": "https://www.linkedin.com/in/dakshdave09/",
+
+	"AboutImage": "https://imgur.com/a/ylb4iQE.png",
 	"AboutContent": [
-		"I’m an Electrical Electronics major by day, a Cross-Fit Enthusisast by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m , off to a hike, Working out, or Studying for an exam",
-		"I am passionate about Deep Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
+		"I design systems. I love whiteboards. I love building things, from understanding requirements to drawing on whiteboards to prototyping, building it for scale, and deploying. My main strengths lie in the vast pieces of knowledge that I have garnered by working across various sectors and verticals in Research, Core Electronics, Finance and Technology, Recommendation Platforms, Enterprise Software(SAAS Platforms), IT Services, Social media platforms, and Consumer Products. I have worked across various domains. I do not carry any particular affection for any domain. As long as there exists a problem worth solving, the domain and sector are just a name I believe. And if the problem's interesting enough then there's no looking back."
+		"I’m an Electrical Electronics passout from BITS PIlani. A developer by day, a Calisthenics Enthusisast by evening, a functional wantrepreneur by midnight and a hustler always.",
+		"If you can’t find me, it’s because I’m , off to a hike, Working out, or studying for an exam/interview/ Just for the sake of Learning :p",
+		"I am passionate about Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk(Correction:Was).",
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkContent": [
-		"I am currently a 3rd year Undergrad open to work opportunities"
+		"Currently, I am working with Wells Fargo to build and scale its Trading Analytics platform that caters to US Traders and other financial institutions. I am open to explore and collaborate to solve challenging and interesting real-world problems."
 	],
-	"WorkImage": "https://i.imgur.com/p91swUB.jpg",
+	"WorkImage": "https://imgur.com/a/TTEFKsd.jpeg",
 	"InternshipsStartLine": "Previously, I have interned with :",
-	"InternShips": [{
+	"InternShips": [
+		{
+			"name": "Eltropy",
+			"link": "https://eltropy.com/"
+		},
+		{
+			"name": "Samsung R&D Bangalore",
+			"link": "https://research.samsung.com/sri-b"
+		},
+		{
 			"name": "L&T Chiyoda India",
-			"link": "#"
+			"link": "https://www.lntchiyoda.com/"
 		},
 		{
 			"name": "Expound Technivo",
-			"link": "#"
+			"link": "https://www.expoundtechnivo.com/"
 		},
 		{
 			"name": "SimpleCRM",
-			"link": "#"
+			"link": "https://www.simplecrm.com/"
 		}
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
-	"Projects": [{
+	"Publications": [
+		{
+			"name": "Learning Analytics and Online Courses: A Bayesian Belief Network Approach to Predict Success",
+			"link": "https://link.springer.com/chapter/10.1007/978-981-19-5331-6_40"
+		}
+	],
+
+	"Projects": [
+		{
+			"name": "Global Bank User Management System",
+			"link": "https://github.com/binarybrain-009/GlobalBankUserManagement"
+		},
+		{
+			"name": "Banking System",
+			"link": "https://github.com/binarybrain-009/Bank"
+		},
+		{
+			"name": "Virtual Doctor",
+			"link": "https://github.com/binarybrain-009/Virtual-Doctor"
+		},
+		{
+			"name": "Bayesian Networks in E-Learning",
+			"link": "https://github.com/binarybrain-009/Bayesian-Network-E-Learing"
+		},
+		{
 			"name": "IMAGE ANIMATION",
 			"link": "https://github.com/binarybrain-009/First-Order-Motion-Model"
 		},
@@ -48,11 +94,13 @@
 			"link": "https://github.com/binarybrain-009/Sunspot-Detection"
 		},
 		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/binarybrain-009/Daksh_Dave-personal-homepage"
+			"name": "Servofast App",
+			"link": "https://play.google.com/store/apps/details?id=com.servofast.servofast"
 		}
+
 	],
 
+	
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
 	"CV": "#",
 	"Resume": "#",
@@ -62,7 +110,7 @@
 	"wordpress": "",
 	"facebook": "https://www.facebook.com/yodakshdave?ref=bookmarks",
 	"github": "https://github.com/binarybrain-009",
-	"instagram": "",
+	"instagram": "https://www.instagram.com/daksh_0902/",
 	"twitter": "https://twitter.com/DakshDave12",
 	"medium": ""
 
